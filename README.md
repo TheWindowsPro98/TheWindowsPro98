@@ -1,5 +1,11 @@
-# What's good my boiz
-You are entering a portal into a repository of repositories of (possibly) the *shittiest* code you, my friend, have ever seen in your life.
+# Let me talk to ya
+
+I'm not a very interesting person. All I do is:
+
+ - Program in the C trilogy and Java (occasionally)
+ - Game development
+ - Terrible music and art (especially art)
+ - Some tools
 
 <!---
 TheWindowsPro98/TheWindowsPro98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
